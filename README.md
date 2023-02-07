@@ -1,2 +1,2 @@
 # simple-electron-template
-quickly template use forge webpack vue3 vue-router、w/o ts、lint、unit
+quickly template use electron-forge webpack vue3 vue-router pinia view-ui-plus
